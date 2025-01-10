@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Banana
+  - Ground
+  - Trap
+  - Saw
+  - Grid
+  - Background
+  - Canvas
+  - Bananaicon
+  - Bananatext
+  - PlayerMovement
+  - WinText
+  - Panel
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1469347371
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2949068239
+    locked: 0
+  - name: Saw
+    uniqueID: 1084798759
+    locked: 0
+  - name: Box
+    uniqueID: 7642813
+    locked: 0
+  - name: Spikes
+    uniqueID: 2082373215
+    locked: 0
+  - name: Terrain
+    uniqueID: 3421498921
+    locked: 0
